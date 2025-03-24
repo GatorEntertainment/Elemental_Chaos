@@ -1,0 +1,13 @@
+DATA DELETION INSTRUCTIONS
+
+Elemental Chaos respects your privacy rights and provides you with control over your personal data.
+
+To request deletion of your account and personal data:
+
+1. Send an email to gatorentertainment45@gmail.com with the subject line "Data Deletion Request"
+2. Include the email address associated with your Elemental Chaos account
+3. We will verify your identity as the account owner
+4. Upon verification, we will delete your account and all associated data from our Firebase project within 30 days
+5. You will receive confirmation when the deletion is complete
+
+For any questions about the data deletion process, please contact us at gatorentertainment45@gmail.com.
