@@ -1,0 +1,117 @@
+# PRIVACY POLICY
+
+**Last Updated: March 23, 2025**
+
+## INTRODUCTION
+
+Gator Entertainment ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how information about you is collected, used, and disclosed by Gator Entertainment when you use our mobile application "Elemental Chaos" ("App"). 
+
+By downloading, accessing, or using our App, you agree to the collection and use of information in accordance with this policy.
+
+## INFORMATION WE COLLECT
+
+### Information You Provide to Us
+
+When you use our App, we may collect the following information:
+
+- **Account Information**: When you register for an account, we collect information such as your email address, username, and profile information.
+- **Authentication Information**: If you choose to sign in using third-party services (Google or Facebook), we receive information from these services in accordance with their privacy policies.
+- **In-App Purchase Information**: If you make purchases in our App, we collect transaction information provided by the app store or payment processor.
+- **Gameplay Information**: We collect data about your game progress, scores, achievements, and in-game preferences.
+- **Communications**: If you contact us directly, we may receive additional information about you, such as your name, email address, and the contents of your message.
+
+### Information We Collect Automatically
+
+When you use our App, we automatically collect the following information:
+
+- **Device Information**: Information about your mobile device including model, operating system, unique device identifiers, and mobile network information.
+- **Usage Information**: Information about your use of the App, such as time spent in the game, features used, and game progress.
+- **Diagnostic Information**: Crash reports and performance data to help improve the App experience.
+
+## HOW WE USE YOUR INFORMATION
+
+We use the information we collect to:
+
+- Provide, maintain, and improve our App
+- Personalize your experience
+- Process transactions and manage your account
+- Communicate with you, including for customer support
+- Monitor and analyze trends, usage, and activities
+- Protect against, identify, and prevent fraud and other illegal activity
+- Fulfill any other purpose disclosed to you at the time you provide your information
+
+## SHARING OF INFORMATION
+
+We may share your information with:
+
+- **Service Providers**: Third-party vendors who provide services on our behalf, such as hosting, analytics, customer service, and marketing assistance.
+- **Third-Party Services**: 
+  - **Firebase**: We use Firebase for authentication, cloud storage, and analytics. Your information is processed according to Google's Privacy Policy.
+  - **Facebook**: If you choose to sign in using Facebook, information is shared according to Facebook's Privacy Policy.
+  - **Google Play Services**: For authentication and to process in-app purchases according to Google's Privacy Policy.
+  - **AdMob**: For serving advertisements, which may collect data as described in Google's Privacy Policy.
+
+We may also share information in the following circumstances:
+
+- In response to a legal request if required by law
+- To protect our rights, users, or the public
+- In connection with a business transfer, merger, or acquisition
+
+## YOUR RIGHTS AND CHOICES
+
+### Account Information
+
+You can update your account information through the App's settings. If you wish to delete your account or request that we no longer use your information, please contact us at gatorentertainment45@gmail.com.
+
+### Data Deletion
+
+You can request deletion of your account and personal information by emailing us at gatorentertainment45@gmail.com. Upon verification of your identity, we will delete your user account and associated data from our Firebase project within 30 days.
+
+### Cookies and Similar Technologies
+
+Most mobile devices allow you to control tracking through device settings. Please refer to your device's help or settings menu for more information.
+
+### Promotional Communications
+
+You can opt out of receiving promotional emails or push notifications by following the instructions in those messages or by adjusting your device settings.
+
+## CHILDREN'S PRIVACY
+
+Our App is not directed to children under the age of 13, and we do not knowingly collect personal information from children under 13. If we learn that we have collected personal information from a child under 13, we will promptly delete that information.
+
+## DATA SECURITY
+
+We take reasonable measures to protect your information from unauthorized access, alteration, or destruction. However, no security system is impenetrable, and we cannot guarantee the security of our systems.
+
+## INTERNATIONAL DATA TRANSFERS
+
+Your information may be transferred to, and maintained on, computers located outside your state, province, country, or other governmental jurisdiction where privacy laws may be different from those in your jurisdiction.
+
+## CHANGES TO THIS PRIVACY POLICY
+
+We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy in the App and updating the "Last Updated" date at the top of this policy.
+
+## CONTACT US
+
+If you have any questions about this Privacy Policy, please contact us at:
+
+Email: gatorentertainment45@gmail.com
+
+Gator Entertainment  
+[Your Physical Address - optional]
+
+## YOUR CALIFORNIA PRIVACY RIGHTS
+
+California residents may request certain information regarding the disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please contact us at the email address listed above.
+
+## YOUR RIGHTS UNDER GDPR AND OTHER PRIVACY LAWS
+
+Depending on your location, you may have certain rights regarding your personal information, such as:
+
+- Right to access your personal information
+- Right to correct inaccurate information
+- Right to request deletion of your information
+- Right to restrict or object to processing
+- Right to data portability
+
+To exercise these rights, please contact us at gatorentertainment45@gmail.com.
